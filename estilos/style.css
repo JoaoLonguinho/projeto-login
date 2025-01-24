@@ -99,6 +99,7 @@ button{
     padding: 10px;
     border: none;
     border-radius: 5px;
+    font-size: 1.3em;
 }
 button:hover{
     transition: 0.2s;
